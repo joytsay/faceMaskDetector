@@ -1,0 +1,1 @@
+python detect_mask_image.py --image examples/example_01.png 
